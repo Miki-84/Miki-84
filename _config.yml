@@ -2,7 +2,7 @@
 
 # Website settings
 title: Miki
-description:Miki's test site,use Jekyll and github pages.
+description: Miki's test site,use Jekyll and github pages.
 keywords: Miki,Jekyll,github,gh-pages
 #baseurl: / #comment this out entirely (otherwise CSS issue)
 url: https://Miki-84.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
